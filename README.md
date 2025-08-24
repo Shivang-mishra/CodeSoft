@@ -21,9 +21,4 @@ It demonstrates **responsive web design**, **modern UI/UX practices**, and **cle
 
 ---
 
-## 🚀 Setup Instructions  
-```bash
-# Clone the repository
-git clone <your-repo-link>
 
-# Open index.html in any browser
